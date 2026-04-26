@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=140&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff"/>
 
 <p align="center">
-  💻 Developer in progress | 🚀 C, C++ & Web Development
+  💻 Computer Science Student | 🚀 Building programming fundamentals
 </p>
 
 ---
@@ -13,6 +13,7 @@
 ---
 
 ## 📚 Currently Learning
+💡 Focused on building strong programming fundamentals
 
 <table align="center">
 <tr>
@@ -69,10 +70,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyudee&show_icons=true&theme=tokyonight&hide_border=true" widht="48%"/>
+  <img src="https://github.com/Hyudee/Hyudee/blob/output/github-contribution-grid-snake.svg" width="48%"/>
 </p>
-
----
 
 ## 📫 Contact
 
