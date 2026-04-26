@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=140&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=160&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff&&descSize=16&descAlignY=75"/>
 
 <p align="center">
   💻 Computer Science Student | 🚀 Building programming fundamentals
@@ -12,8 +12,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hyudee&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyudee&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
 ## 📚 Currently Learning
+
+<p align="center" style="font-size:14px; opacity:0.8;">
 💡 Focused on building strong programming fundamentals
+</p>
 
 <table align="center">
 <tr>
@@ -67,17 +80,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyudee&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github.com/Hyudee/Hyudee/blob/output/github-contribution-grid-snake.svg" width="48%"/>
+  <img src="https://github.com/Hyudee/Hyudee/blob/output/github-contribution-grid-snake-dark.svg"
+       width="85%"/>
 </p>
 
-## 📫 Contact
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
 
 <p align="center">
-  <a href="https://instagram.com/d.hyude">
-    <img src="https://img.shields.io/badge/Instagram-7F00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="https://instagram.com/d.hyude"><img src="https://img.shields.io/badge/Instagram-7F00FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hyudee"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:hyudedavi1@email.com"><img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
