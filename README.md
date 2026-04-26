@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0063F0,100:00C2FF&height=150&section=header&text=Welcome!&fontSize=40&fontColor=fff"/>
 <h1 align="center">Davi Hyude</h1>
 
 <p align="center">
@@ -29,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyudee&show_icons=true&theme=radical" />
 </p>
 
 ---
