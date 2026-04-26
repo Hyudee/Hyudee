@@ -6,9 +6,8 @@
 
 ---
 
-## Banner
 <p align="center">
-  <img src="assets/coding.gif" width="250"/>
+  <img src="assets/coding.gif" width="40%"/>
 </p>
 
 ---
