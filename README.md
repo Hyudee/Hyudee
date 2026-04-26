@@ -1,59 +1,77 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0063F0,100:00C2FF&height=150&section=header&text=Welcome!&fontSize=40&fontColor=fff"/>
-<h1 align="center">Davi Hyude</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=140&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff"/>
 
 <p align="center">
-  💻 Developer in progress | 🚀 Learning C, Web Development & More
+  💻 Developer in progress | 🚀 C, C++ & Web Development
 </p>
 
 ---
 
-## 🚀 Languages and Tools I Use
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
-</p>
+<table align="center">
+<tr>
+ <td align="center">
+    <b>C Programming</b>
+ </td>
+ <td align="center" width="80">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60">
+ </td>
+</tr>
+
+<tr>
+ <td align="center">
+    <b>C++</b>
+ </td>
+ <td align="center" width="80">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60">
+ </td>
+</tr>
+
+<tr>
+ <td align="center">
+    <b>Web Development</b>
+ </td>
+ <td align="center" width="80">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
+ </td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ About Me
 
 - 📚 Estudando programação todos os dias  
-- 🧠 Focado em lógica e desenvolvimento web  
-- 🎯 Objetivo: me tornar um dev completo  
-- 🌎 Brasil
+- 🧠 Foco em lógica, algoritmos e fundamentos  
+- 🌐 Evoluindo para desenvolvimento web  
+- 🎯 Objetivo: me tornar um desenvolvedor completo  
+- 🇧🇷 Brasil  
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyudee&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Where to find me
+## 📫 Contact
 
 <p align="center">
-  <a href="https://www.instagram.com/d.hyude">
-    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/d.hyude">
+    <img src="https://img.shields.io/badge/Instagram-7F00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
-<!--
-**Hyudee/Hyudee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
