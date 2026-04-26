@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7F00FF,100:00C2FF&height=140&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=140&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff"/>
 
 <p align="center">
   💻 Developer in progress | 🚀 C, C++ & Web Development
