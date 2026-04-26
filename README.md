@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="assets/coding.gif" width="40%"/>
+  <img src="assets/coding.gif" width="55%"/>
 </p>
 
 ---
