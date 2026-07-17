@@ -1,14 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=160&section=header&text=Davi%20Hyude&fontSize=42&fontColor=fff&&descSize=16&descAlignY=75"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=140&section=header&text=Davi+Hyude&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Computer+Science+Student+%7C+Full+Stack+Developer&descSize=16&descAlignY=85"/>
 
-<p align="center">
-  💻 Computer Science Student | 🚀 Building programming fundamentals
-</p>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2563EB&size=22&center=true&vCenter=true&width=700&lines=Computer+Science+%40+UERN;Full+Stack+Developer;Building+projects+and+exploring+new+technologies;Focused+on+continuous+improvement)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="assets/coding.gif" width="55%"/>
-</p>
+</div>
 
 ---
 
@@ -22,38 +18,37 @@
 
 ---
 
-## 📚 Currently Learning
-
-<p align="center" style="font-size:14px; opacity:0.8;">
-💡 Focused on building strong programming fundamentals
-</p>
+## 📚 Currently Exploring
 
 <table align="center">
 <tr>
- <td align="center">
-    <b>C Programming</b>
- </td>
- <td align="center" width="80">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60">
- </td>
+<td align="center">
+<b>Systems Programming</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60">
+</td>
 </tr>
 
 <tr>
- <td align="center">
-    <b>C++</b>
- </td>
- <td align="center" width="80">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60">
- </td>
+<td align="center">
+<b>Game Development</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60">
+</td>
 </tr>
 
 <tr>
- <td align="center">
-    <b>Web Development</b>
- </td>
- <td align="center" width="80">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
- </td>
+<td align="center">
+<b>Web Applications</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60">
+</td>
 </tr>
 </table>
 
@@ -72,13 +67,32 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nodejs,postgres,git,github,vscode&theme=dark"/>
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+### 🍽️ Papa's Tia Bete
+
+2D game developed in C++ using SDL3.
+
+Features:
+- Enemy waves and bosses
+- Upgrade system
+- Ranking system
+- Custom UI and animations
+
+**Tech:** C++, SDL3
+
+---
+
+### 🌐 Web Projects
+
+Building modern web applications using React, TypeScript and Node.js.
+
+**Tech:** React, TypeScript, Tailwind, PostgreSQL
 
 ## 🐍 Contribution Snake
 
