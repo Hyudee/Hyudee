@@ -6,7 +6,9 @@
 
 </div>
 
----
+
+
+
 
 ## 📊 GitHub Stats
 
@@ -16,61 +18,46 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyudee&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
 
 ## 📚 Currently Exploring
 
 <table align="center">
-<tr>
-<td align="center">
-<b>Systems Programming</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60">
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Game Development</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60">
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Web Applications</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60">
-</td>
-</tr>
+  <tr>
+    <td align="center"><b>Backend Development</b><br/>Java & Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring" width="100"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>API Development</b><br/>RESTful APIs & Backend Architecture</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring,postgres" width="100"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend Development</b><br/>React, TypeScript & Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,tailwind" width="150"/></td>
+  </tr>
 </table>
-
----
 
 ## ⚡ About Me
 
-- 📚 Estudando programação todos os dias  
-- 🧠 Foco em lógica, algoritmos e fundamentos  
-- 🌐 Evoluindo para desenvolvimento web  
-- 🎯 Objetivo: me tornar um desenvolvedor completo  
-- 🇧🇷 Brasil  
+- 🎓 Computer Science student at UERN
+- 💻 Interested in Full Stack Development
+- 🧠 Passionate about problem-solving and software engineering
+- 🌱 Constantly learning and building new projects
+- 🇧🇷 Based in Brazil
 
----
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nodejs,postgres,git,github,vscode&theme=dark"/>
-</p>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py&theme=dark"/>
 
----
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark"/>
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
 
 ## 🚀 Featured Projects
 
@@ -86,7 +73,6 @@ Features:
 
 **Tech:** C++, SDL3
 
----
 
 ### 🌐 Web Projects
 
